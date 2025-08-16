@@ -8,7 +8,7 @@ Hello, I’m Yuna! I’m currently an intern in the Quality Excellence division 
 - Ensure seamless coordination so that business operations run smoothly and efficiently.
 - Tackle challenges by promoting collaboration and proactive problem-solving across divisions.
 
-##Top Skills:
+## Top Skills:
 
 - Analytical thinking—love digging into data to find actionable insights.
 - Advanced SQL—skilled at transforming raw data into meaningful reports and recommendations.
